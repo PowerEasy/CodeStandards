@@ -1,3 +1,6 @@
+## method
+
+- 非Action都应该使用private 或者 protected 修饰符。
 
 ## Action
 
